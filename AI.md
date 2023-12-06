@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
 
-  <meta name="description" content="Testing Techniques">
+  <meta name="description" content="AI Techniques">
   <meta name="author" content="SitePoint">
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
@@ -24,17 +24,11 @@
   </tr>
   
   <tr>
-    <th class="tg-yw4l"> PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles </th> 
-    <th> <a href="https://www.ndss-symposium.org/ndss-paper/pgfuzz-policy-guided-fuzzing-for-robotic-vehicles/">link</a> </th>    
-    <th class="tg-yw4l">  NDSS 2021 </th>   
+    <th class="tg-yw4l">  </th> 
+    <th> <a href=" ">link</a> </th>    
+    <th class="tg-yw4l">   </th>   
   </tr>
 
-  <tr>
-    <th class="tg-yw4l"> Revisiting Neural Program Smoothing for Fuzzing </th> 
-    <th> <a href="https://arxiv.org/pdf/2309.16618.pdf">link</a> </th>    
-    <th class="tg-yw4l"> ESEC/FSE 2023 </th>   
-  </tr>
-  
   <tr>
     <th class="tg-yw4l">  </th> 
     <th> <a href=" ">link</a> </th>    
