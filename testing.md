@@ -1,0 +1,42 @@
+<head>
+  <meta charset="utf-8">
+
+  <meta name="description" content="Testing Techniques">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+  
+  <h2>Testing Techniques </h2>
+  
+<table class="tg">
+
+  <tr>
+    <th class="tg-yw4l"> Title </th> 
+    <th> Link </th>    
+    <th class="tg-yw4l"> Comment </th> 
+  </tr>
+  
+  <tr>
+    <th class="tg-yw4l"> PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles </th> 
+    <th> <a href="https://www.ndss-symposium.org/ndss-paper/pgfuzz-policy-guided-fuzzing-for-robotic-vehicles/">link</a> </th>    
+    <th class="tg-yw4l">  NDSS 2021 </th>   
+  </tr>
+
+  <tr>
+    <th class="tg-yw4l"> Revisiting Neural Program Smoothing for Fuzzing </th> 
+    <th> <a href="https://arxiv.org/pdf/2309.16618.pdf">link</a> </th>    
+    <th class="tg-yw4l"> ESEC/FSE 2023 </th>   
+  </tr>
+  
+
+<a href="https://github.com/Trusted-AI-in-System-Test/Literature">Back</a>
+  
+</body>
+</html>
