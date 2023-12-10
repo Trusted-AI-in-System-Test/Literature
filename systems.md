@@ -26,22 +26,22 @@
   
   <tr>
     <th> <a href="https://github.com/ArduPilot/ardupilot">ArduPilot Project</a> </th>
-    <th class="tg-yw4l"> n/a </th> 
-    <th> n/a </th>
+    <th class="tg-yw4l"> - </th> 
+    <th> - </th>
     <th class="tg-yw4l"> Autopilot </th>   
   </tr>
 
   <tr>
     <th> <a href="https://github.com/PX4/PX4-Autopilot">PX4 Autopilot</a> </th>  
-    <th class="tg-yw4l"> n/a </th> 
-    <th> n/a </th>
+    <th class="tg-yw4l"> - </th> 
+    <th> - </th>
     <th class="tg-yw4l">  Autopilot </th>   
   </tr>
 
   <tr>
     <th> <a href="https://github.com/paparazzi/paparazzi">Paparazzi UAS</a> </th>    
-    <th class="tg-yw4l"> n/a </th> 
-    <th> n/a </th>
+    <th class="tg-yw4l"> - </th> 
+    <th> - </th>
     <th class="tg-yw4l"> Autopilot </th>   
   </tr>
 
