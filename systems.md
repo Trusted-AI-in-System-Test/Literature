@@ -18,29 +18,41 @@
 <table class="tg">
 
   <tr>
-    <th class="tg-yw4l"> Title </th> 
-    <th> Link </th>    
+    <th> Github </th>    
+    <th class="tg-yw4l"> Paper Title </th> 
+    <th> Paper </th>    
     <th class="tg-yw4l"> Comment </th> 
   </tr>
   
   <tr>
-    <th class="tg-yw4l"> Ardupilot </th> 
-    <th> <a href="https://github.com/ArduPilot/ardupilot">link</a> </th>    
-    <th class="tg-yw4l">   </th>   
+    <th> <a href="https://github.com/ArduPilot/ardupilot">ArduPilot Project</a> </th>
+    <th class="tg-yw4l"> n/a </th> 
+    <th> n/a </th>
+    <th class="tg-yw4l"> Autopilot </th>   
   </tr>
 
   <tr>
-    <th class="tg-yw4l"> PX4 </th> 
-    <th> <a href="https://github.com/PX4/PX4-Autopilot">link</a> </th>    
-    <th class="tg-yw4l">   </th>   
+    <th> <a href="https://github.com/PX4/PX4-Autopilot">PX4 Autopilot</a> </th>  
+    <th class="tg-yw4l"> n/a </th> 
+    <th> n/a </th>
+    <th class="tg-yw4l">  Autopilot </th>   
   </tr>
 
   <tr>
-    <th class="tg-yw4l"> CPS-UAV </th> 
-    <th> <a href="https://github.com/skhatiri/UAV-Testing-Competition">link</a> </th>    
-    <th class="tg-yw4l"> CPS-UAV: Unmanned Aerial Vehicle Testing Competition </th>   
+    <th> <a href="https://github.com/paparazzi/paparazzi">Paparazzi UAS</a> </th>    
+    <th class="tg-yw4l"> n/a </th> 
+    <th> n/a </th>
+    <th class="tg-yw4l"> Autopilot </th>   
   </tr>
 
+  <tr>
+    <th> <a href="https://github.com/skhatiri/UAV-Testing-Competition">CPS-UAV</a> </th> 
+    <th class="tg-yw4l"> Simulation-based Test Case Generation for Unmanned Aerial Vehicles in the Neighborhood of Real Flights </th> 
+    <th> <a href="https://ieeexplore.ieee.org/abstract/document/10132225">link</a> </th> 
+    <th class="tg-yw4l"> IEEE 2023 </th>   
+  </tr>
+
+</table>
 <a href="https://github.com/Trusted-AI-in-System-Test/Literature">Back</a>
   
 </body>

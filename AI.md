@@ -18,23 +18,20 @@
 <table class="tg">
 
   <tr>
-    <th class="tg-yw4l"> Title </th> 
-    <th> Link </th>    
+    <th> Github </th>    
+    <th class="tg-yw4l"> Paper Title </th> 
+    <th> Paper </th>    
     <th class="tg-yw4l"> Comment </th> 
   </tr>
-  
+
   <tr>
+    <th> <a href="https://github.com/Yiannis128/ESBMC-AI">ESBMC AI</a> </th>     
     <th class="tg-yw4l"> A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification </th> 
-    <th> <a href="https://arxiv.org/abs/2305.14752">link</a> </th>    
-    <th class="tg-yw4l"> ESBMC-AI ihttps://github.com/Yiannis128/ESBMC-AI </th>   
+    <th> <a href="https://arxiv.org/abs/2305.14752"> link </a> </th>    
+    <th class="tg-yw4l"> LLM </th>   
   </tr>
 
-  <tr>
-    <th class="tg-yw4l">  </th> 
-    <th> <a href=" ">link</a> </th>    
-    <th class="tg-yw4l">   </th>   
-  </tr>
-
+</table>
 <a href="https://github.com/Trusted-AI-in-System-Test/Literature">Back</a>
   
 </body>

@@ -18,29 +18,27 @@
 <table class="tg">
 
   <tr>
-    <th class="tg-yw4l"> Title </th> 
-    <th> Link </th>    
+    <th> Github </th>    
+    <th class="tg-yw4l"> Paper Title </th> 
+    <th> Paper </th>    
     <th class="tg-yw4l"> Comment </th> 
   </tr>
   
   <tr>
+    <th> <a href="https://github.com/purseclab/PGFuzz">PGFuzz</a> </th>
     <th class="tg-yw4l"> PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles </th> 
     <th> <a href="https://www.ndss-symposium.org/ndss-paper/pgfuzz-policy-guided-fuzzing-for-robotic-vehicles/">link</a> </th>    
     <th class="tg-yw4l">  NDSS 2021 </th>   
   </tr>
 
   <tr>
+    <th> <a href="https://github.com/boschresearch/neuzzplusplus">Neuzz++</a> </th>
     <th class="tg-yw4l"> Revisiting Neural Program Smoothing for Fuzzing </th> 
-    <th> <a href="https://arxiv.org/pdf/2309.16618.pdf">link</a> </th>    
-    <th class="tg-yw4l"> ESEC/FSE 2023 </th>   
-  </tr>
-  
-  <tr>
-    <th class="tg-yw4l">  </th> 
-    <th> <a href=" ">link</a> </th>    
-    <th class="tg-yw4l">   </th>   
+    <th> <a href="https://arxiv.org/pdf/2309.16618.pdf">link</a> </th>
+    <th class="tg-yw4l"> ESEC/FSE 2023 </th>
   </tr>
 
+</table>
 <a href="https://github.com/Trusted-AI-in-System-Test/Literature">Back</a>
   
 </body>
