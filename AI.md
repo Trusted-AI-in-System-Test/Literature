@@ -130,6 +130,9 @@
     <th class="tg-yw4l"> LLM Local </th>   
   </tr>
 
+<!-- Have enough LLMs but this might be better than LLAMA2 https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1 -->
+<!-- And this one is specialised for coding https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GPTQ -->
+
 </table>
 
 <a href="https://github.com/Trusted-AI-in-System-Test/Literature">Back</a>
