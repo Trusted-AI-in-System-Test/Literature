@@ -98,6 +98,40 @@
   </tr>
 
 </table>
+
+<br>
+<br>
+
+<h3> Model List </h3>
+
+<table class="tg">
+
+  <tr>
+    <th> ID </th>
+    <th> Model </th>    
+    <th class="tg-yw4l"> Comment </th> 
+  </tr>
+
+  <tr>
+    <th> 01 </th>
+    <th> <a href="https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo">GPT 4</a> </th>     
+    <th class="tg-yw4l"> LLM API</th>   
+  </tr>
+
+  <tr>
+    <th> 02 </th>
+    <th> <a href="https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ">LLAMA 2 7B Chat GPTQ</a> </th>     
+    <th class="tg-yw4l"> LLM Local</th>   
+  </tr>
+
+  <tr>
+    <th> 03 </th>
+    <th> <a href="https://huggingface.co/gpt2">GPT 2 124M</a> </th>     
+    <th class="tg-yw4l"> LLM Local </th>   
+  </tr>
+
+</table>
+
 <a href="https://github.com/Trusted-AI-in-System-Test/Literature">Back</a>
   
 </body>
