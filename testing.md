@@ -18,6 +18,7 @@
 <table class="tg">
 
   <tr>
+    <th> ID </th>    
     <th> Github </th>    
     <th class="tg-yw4l"> Paper Title </th> 
     <th> Paper </th>    
@@ -25,6 +26,7 @@
   </tr>
   
   <tr>
+    <th> 01 </th>
     <th> <a href="https://github.com/purseclab/PGFuzz">PGFuzz</a> </th>
     <th class="tg-yw4l"> PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles </th> 
     <th> <a href="https://www.ndss-symposium.org/ndss-paper/pgfuzz-policy-guided-fuzzing-for-robotic-vehicles/">link</a> </th>    
@@ -32,6 +34,7 @@
   </tr>
 
   <tr>
+    <th> 02 </th>
     <th> <a href="https://github.com/boschresearch/neuzzplusplus">Neuzz++</a> </th>
     <th class="tg-yw4l"> Revisiting Neural Program Smoothing for Fuzzing </th> 
     <th> <a href="https://arxiv.org/pdf/2309.16618.pdf">link</a> </th>
