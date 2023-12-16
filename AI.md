@@ -37,7 +37,7 @@
     <th> 02 </th>
     <th> - </th>     
     <th class="tg-yw4l"> Machine Learning Applied to Software Testing: A Systematic Mapping Study </th> 
-    <th> <a href="https://ieeexplore.ieee.org/abstract/document/8638573"> link </a> </th>    
+    <th> <a href="https://arxiv.org/abs/2106.13891"> link </a> </th>    
     <th class="tg-yw4l"> IEEE 2019, Survey </th>   
   </tr>
 
