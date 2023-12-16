@@ -51,6 +51,42 @@
     <th> <a href="https://ieeexplore.ieee.org/abstract/document/10132225">link</a> </th> 
     <th class="tg-yw4l"> IEEE 2023 </th>   
   </tr>
+  
+  <tr>
+    <th> <a href="https://github.com/nasa/fprime">F-Prime</a> </th>    
+    <th class="tg-yw4l"> - </th> 
+    <th> - </th>
+    <th class="tg-yw4l">  </th>   
+  </tr>
+
+  <tr>
+    <th> <a href="https://github.com/FlightGear">FlightGear</a> </th>    
+    <th class="tg-yw4l"> - </th> 
+    <th> - </th>
+    <th class="tg-yw4l"> Simulator Aero </th>   
+  </tr>
+
+  <tr>
+    <th> <a href="https://github.com/carla-simulator/carla">CARLA</a> </th>    
+    <th class="tg-yw4l"> - </th> 
+    <th> - </th>
+    <th class="tg-yw4l"> Simulator Car </th>   
+  </tr>
+
+  <tr>
+    <th> <a href="https://github.com/jeremybennett/torcs">TORCS</a> </th>    
+    <th class="tg-yw4l"> - </th> 
+    <th> - </th>
+    <th class="tg-yw4l"> Simulator Car </th>   
+  </tr>
+
+  <tr>
+    <th> <a href="https://github.com/gazebosim">Gazebo</a> </th>    
+    <th class="tg-yw4l"> - </th> 
+    <th> - </th>
+    <th class="tg-yw4l"> Simulator ROS </th>   
+  </tr>
+
 
 </table>
 <a href="https://github.com/Trusted-AI-in-System-Test/Literature">Back</a>
