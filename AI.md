@@ -75,7 +75,7 @@
 
   <tr>
     <th> 07 </th>
-    <th> <a href="https://github.com/coinse/libro">LIBRO</a> </th>     
+    <th> <a href="https://github.com/ise-uiuc/TitanFuzz">TitanFuzz</a> </th>     
     <th class="tg-yw4l"> Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via LLMs </th> 
     <th> <a href="https://dl.acm.org/doi/abs/10.1145/3597926.3598067"> link </a> </th>    
     <th class="tg-yw4l"> ISSTA 2023, LLM </th>   
