@@ -41,6 +41,14 @@
     <th class="tg-yw4l"> ESEC/FSE 2023 </th>
   </tr>
 
+  <tr>
+    <th> 08 </th>
+    <th> - </th>     
+    <th class="tg-yw4l"> Software Test Results Exploration and Visualization with Continuous Integration and Nightly Testing </th> 
+    <th> <a href="https://link.springer.com/chapter/10.1007/978-3-031-28332-1_25"> link </a> </th>    
+    <th class="tg-yw4l"> Springer 2022 </th>   
+  </tr>
+
 </table>
 <a href="https://github.com/Trusted-AI-in-System-Test/Literature">Back</a>
   
