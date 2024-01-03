@@ -174,7 +174,7 @@
     <th> LSTM </th>
     <th> Drones </th>
     <th> <a href=""https://arxiv.org/abs/2112.03511> link </a> </th>    
-    <th class="tg-yw4l"> ICSE 2022 </th>   
+    <th class="tg-yw4l"> An offline approach; ICSE 2022 </th>   
   </tr>
 
   <tr>
