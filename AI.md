@@ -147,6 +147,36 @@
     <th class="tg-yw4l"> ICMLA 2016 </th>   
   </tr>
 
+  <tr>
+    <th>  </th>
+    <th>  </th>     
+    <th class="tg-yw4l"> Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration </th> 
+    <th> reinforcement learning </th>
+    <th> industrial robots </th>
+    <th> <a href="https://arxiv.org/pdf/1811.04122.pdf"> link </a> </th>    
+    <th class="tg-yw4l">  ISSTA 2017 </th>   
+  </tr>
+
+  <tr>
+    <th>  </th>
+    <th>  </th>     
+    <th class="tg-yw4l">  </th> 
+    <th>  </th>
+    <th>  </th>
+    <th> <a href=""> link </a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+
+  <tr>
+    <th>  </th>
+    <th>  </th>     
+    <th class="tg-yw4l">  </th> 
+    <th>  </th>
+    <th>  </th>
+    <th> <a href=""> link </a> </th>    
+    <th class="tg-yw4l">  </th>   
+  </tr>
+
 </table>
 
 <br>
