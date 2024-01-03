@@ -159,7 +159,27 @@
 
   <tr>
     <th>  </th>
-    <th>  </th>     
+    <th> <a href="https://github.com/weiminn/DronLomaly">DroneLomaly</a> </th>     
+    <th class="tg-yw4l"> DronLomaly: Runtime Detection of Anomalous Drone Behaviors via Log Analysis and Deep Learning </th> 
+    <th>  LSTM </th>
+    <th>  Drones </th>
+    <th> <a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8548&context=sis_research"> link </a> </th>    
+    <th class="tg-yw4l"> APSEC 2022 </th>   
+  </tr>
+
+  <tr>
+    <th>  </th>
+    <th> <a href=""></a> </th>     
+    <th class="tg-yw4l"> Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search </th> 
+    <th> LSTM </th>
+    <th> Drones </th>
+    <th> <a href=""https://arxiv.org/abs/2112.03511> link </a> </th>    
+    <th class="tg-yw4l"> ICSE 2022 </th>   
+  </tr>
+
+  <tr>
+    <th>  </th>
+    <th> <a href=""></a> </th>     
     <th class="tg-yw4l">  </th> 
     <th>  </th>
     <th>  </th>
@@ -169,7 +189,7 @@
 
   <tr>
     <th>  </th>
-    <th>  </th>     
+    <th> <a href=""></a> </th>     
     <th class="tg-yw4l">  </th> 
     <th>  </th>
     <th>  </th>
